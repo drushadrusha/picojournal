@@ -1,0 +1,4 @@
+#!/bin/bash
+
+DEFAULT_EDITOR=nano
+DATA_PATH=$HOME/.picojournal
